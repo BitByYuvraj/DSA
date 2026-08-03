@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/BitByYuvraj/DSA/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/BitByYuvraj/DSA/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/BitByYuvraj/DSA/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -23,5 +24,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/BitByYuvraj/DSA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/BitByYuvraj/DSA/tree/master/1929-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/BitByYuvraj/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

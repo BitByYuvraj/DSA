@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BitByYuvraj/DSA/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/BitByYuvraj/DSA/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/BitByYuvraj/DSA/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/BitByYuvraj/DSA/tree/master/1929-concatenation-of-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BitByYuvraj/DSA/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/BitByYuvraj/DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -29,5 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BitByYuvraj/DSA/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/BitByYuvraj/DSA/tree/master/0682-baseball-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BitByYuvraj/DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BitByYuvraj/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

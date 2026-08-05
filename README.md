@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/BitByYuvraj/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/BitByYuvraj/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/BitByYuvraj/DSA/tree/master/0877-stone-game) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BitByYuvraj/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1929-concatenation-of-array](https://github.com/BitByYuvraj/DSA/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -47,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BitByYuvraj/DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/BitByYuvraj/DSA/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BitByYuvraj/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BitByYuvraj/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->

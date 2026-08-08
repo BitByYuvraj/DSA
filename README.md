@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/BitByYuvraj/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/BitByYuvraj/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/BitByYuvraj/DSA/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/BitByYuvraj/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/BitByYuvraj/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/BitByYuvraj/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/BitByYuvraj/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -77,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/BitByYuvraj/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/BitByYuvraj/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

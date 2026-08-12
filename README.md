@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BitByYuvraj/DSA/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BitByYuvraj/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BitByYuvraj/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/BitByYuvraj/DSA/tree/master/0682-baseball-game) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/BitByYuvraj/DSA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/BitByYuvraj/DSA/tree/master/1929-concatenation-of-array) |
 ## Stack
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/BitByYuvraj/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

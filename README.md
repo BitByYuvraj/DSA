@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BitByYuvraj/DSA/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BitByYuvraj/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BitByYuvraj/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/BitByYuvraj/DSA/tree/master/0682-baseball-game) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/BitByYuvraj/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/BitByYuvraj/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Range Minimum/Maximum Query
@@ -100,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

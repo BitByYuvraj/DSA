@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BitByYuvraj/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BitByYuvraj/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/BitByYuvraj/DSA/tree/master/0152-maximum-product-subarray) |
 | [0682-baseball-game](https://github.com/BitByYuvraj/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/BitByYuvraj/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/BitByYuvraj/DSA/tree/master/0875-koko-eating-bananas) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BitByYuvraj/DSA/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/BitByYuvraj/DSA/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/BitByYuvraj/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/BitByYuvraj/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Game Theory

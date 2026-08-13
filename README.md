@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/BitByYuvraj/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/BitByYuvraj/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BitByYuvraj/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1901-find-a-peak-element-ii](https://github.com/BitByYuvraj/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/BitByYuvraj/DSA/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/BitByYuvraj/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/BitByYuvraj/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1901-find-a-peak-element-ii](https://github.com/BitByYuvraj/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -108,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/BitByYuvraj/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/BitByYuvraj/DSA/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->

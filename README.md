@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/BitByYuvraj/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BitByYuvraj/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/BitByYuvraj/DSA/tree/master/0152-maximum-product-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/BitByYuvraj/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0682-baseball-game](https://github.com/BitByYuvraj/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/BitByYuvraj/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/BitByYuvraj/DSA/tree/master/0875-koko-eating-bananas) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/BitByYuvraj/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0875-koko-eating-bananas](https://github.com/BitByYuvraj/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/BitByYuvraj/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/BitByYuvraj/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -110,5 +112,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/BitByYuvraj/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/BitByYuvraj/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/BitByYuvraj/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/BitByYuvraj/DSA/tree/master/1901-find-a-peak-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/BitByYuvraj/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
